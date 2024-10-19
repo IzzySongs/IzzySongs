@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzzySongs
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning design and development
+- 👀 I’m interested in Android App development
+- 🌱 I’m currently learning Android App development
 - 💞️ I’m looking to collaborate on programming in general
 - 📫 How to reach me , Email: adeyemiisrael942@gmail.com
 
